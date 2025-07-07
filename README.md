@@ -1,0 +1,2 @@
+# ku
+my first repository
